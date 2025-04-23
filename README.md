@@ -167,6 +167,7 @@ This API can be deployed on [Render](https://render.com) with the following conf
 ## Testing the API
 
 You can test the API using Postman:
+[TEST](https://harshsangani.postman.co/workspace/Harsh-Sangani's-Workspace~9a3d9c04-c523-4636-8f28-ccd61a0646f7/collection/44001030-282f4f21-c2e8-40ca-b79c-ee964322acad?action=share&creator=44001030)
 
 ### Create an order
 1. Create a new POST request to `/orders`
